@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2013\Projects\K2.MonkeyLearn\K2.MonkeyLearn\bin\Debug\K2.MonkeyLearn.dll
+c:\users\administrator\documents\visual studio 2013\Projects\K2.MonkeyLearn\K2.MonkeyLearn\bin\Debug\K2.MonkeyLearn.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\K2.MonkeyLearn\K2.MonkeyLearn\obj\Debug\K2.MonkeyLearn.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\K2.MonkeyLearn\K2.MonkeyLearn\obj\Debug\K2.MonkeyLearn.dll
+c:\users\administrator\documents\visual studio 2013\Projects\K2.MonkeyLearn\K2.MonkeyLearn\obj\Debug\K2.MonkeyLearn.pdb
